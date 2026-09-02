@@ -76,4 +76,4 @@ e2e-tests-portfolio/
 - Adicionar testes de responsividade (mobile/desktop)
 
 ---
-Desenvolvido por Idna Reis — [GitHub](https://github.com/IdnaReis) | [LinkedIn](https://linkedin.com/in/qaxia-tech)
+Desenvolvido por Idna Reis — [GitHub](https://github.com/IdnaReis) | [LinkedIn](https://linkedin.com/in/qaxia-tech).
